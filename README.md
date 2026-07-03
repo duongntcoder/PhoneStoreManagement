@@ -272,23 +272,18 @@ Main.java
 
 ## Đăng nhập
 
-*(Thêm ảnh sau)*
 
 ## Quản lý sản phẩm
 
-*(Thêm ảnh sau)*
 
 ## Quản lý khách hàng
 
-*(Thêm ảnh sau)*
 
 ## Quản lý hóa đơn
 
-*(Thêm ảnh sau)*
 
 ## Thống kê doanh thu
 
-*(Thêm ảnh sau)*
 
 ---
 
